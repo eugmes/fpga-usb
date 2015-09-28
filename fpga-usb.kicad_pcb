@@ -3,7 +3,7 @@
   (general
     (links 27)
     (no_connects 0)
-    (area 131.299999 95.099999 162.900001 113.100001)
+    (area 129.425001 87.75 175 114.075)
     (thickness 1.6)
     (drawings 13)
     (tracks 272)
@@ -19,6 +19,7 @@
     (33 F.Adhes user)
     (35 F.Paste user)
     (37 F.SilkS user)
+    (38 B.Mask user)
     (39 F.Mask user)
     (40 Dwgs.User user)
     (41 Cmts.User user)
