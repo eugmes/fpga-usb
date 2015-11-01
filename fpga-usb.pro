@@ -1,4 +1,4 @@
-update=2015 September 27, Sunday 20:51:11
+update=2015 October 05, Monday 00:43:11
 version=1
 last_client=kicad
 [pcbnew]
@@ -35,3 +35,13 @@ LibName5=contrib
 LibName6=fpga-usb
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
