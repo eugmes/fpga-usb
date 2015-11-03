@@ -17,8 +17,8 @@ Rev "3"
 Comp "Ievgenii Meshcheriakov"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "http://creativecommons.org/licenses/by-sa/4.0/"
+Comment4 "This work is licensed under a Attribution-ShareAlike 4.0 International License."
 $EndDescr
 Wire Wire Line
 	5850 3000 7650 3000
