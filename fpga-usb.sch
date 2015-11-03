@@ -12,7 +12,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "USB Interface for FPGA"
-Date "2001-01-01"
+Date "2015-11-02"
 Rev "3"
 Comp "Ievgenii Meshcheriakov"
 Comment1 ""
