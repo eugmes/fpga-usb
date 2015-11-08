@@ -1,7 +1,7 @@
 # USB Interface Extension
 This is a small board that uses MAX3453E chip to add a USB interface for an FPGA board.
-This extension is designed to fit inta an extension connector on Numato Mimas V2 FPGA board, but it
-probably could be used with other boards that use 6x2 connectors.
+This extension is designed to fit into an extension connector on Numato Mimas V2 FPGA board, but it
+probably could be used with other boards that use 6x2 connectors (PMOD) or as a MAX3453E breakout board.
 
 # Connector Pinout
 
